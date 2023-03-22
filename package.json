@@ -1,0 +1,25 @@
+{
+  "name": "w3s-dev-pack",
+  "displayName": "W3S Dev Pack",
+  "description": "The developer pack for developers working at W3S",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "andys8.jest-snippets",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "jock.svg",
+    "ritwickdey.liveserver",
+    "stylelint.vscode-stylelint",
+    "vue.volar",
+    "vue.vscode-typescript-vue-plugin",
+    "wayou.vscode-todo-highlight"
+  ]
+}
